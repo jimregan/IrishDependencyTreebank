@@ -23177,9 +23177,9 @@
 26	ó	ó	Prep	Simp	_	24	padjunct	_	_
 27	chomhcheilg	comhcheilg	Noun	Noun	Fem+Com+Sg+Len	26	pobj	_	_
 28	pholaitiúil	polaitiúil	Adj	Adj	Fem+Com+Sg	27	adjadjunct	_	_
-29	Éirí	éirí	Noun	Noun	Masc+Com+Sg	27	nadjunct	_	_
+29	Éirí	éirí	Noun	Noun	Masc+Gen+Sg	27	nadjunct	_	_
 30	Amach	amach	Adv	Dir	_	29	advadjunct	_	_
-31	Loch_Garman	Loch	Prop	Noun	Prop+Noun+Masc+Com+Sg	29	nadjunct	_	_
+31	Loch_Garman	Loch	Prop	Noun	Prop+Noun+Masc+Gen+Sg	29	nadjunct	_	_
 32	.	.	.	.	_	2	punctuation	_	_
 
 1	Caidé	cad_é	CU	CU	Cop+Pro+Q	0	top	_	_
