@@ -24659,8 +24659,8 @@
 34	shin	sin	Pron	Dem	_	33	pobj	_	_
 35	.	.	.	.	_	2	punctuation	_	_
 
-1	Go	go	Prep	Simp	_	0	top	_	_
-2	dtí	tí	Noun	Noun	Fem+Com+Sg+Ecl	1	pobj	_	_
+1	Go	go      Part    Vb      Subj    2       vparticle       _       _
+2	dtí	tar	Verb	VI	PresSubj+Ecl	0	top	_	_
 3	inniu	inniu	Adv	Temp	_	2	nadjunct	_	_
 4	.	.	.	.	_	1	punctuation	_	_
 
